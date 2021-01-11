@@ -14,5 +14,5 @@ Some more dummy text.
 
 ![](onepiece.jpg)
 
-![](https://raw.githubusercontent.com/leepingchloe/NUS-test-210111/main/Profile.png)
+![](https://static3.srcdn.com/wordpress/wp-content/uploads/2020/06/One-Piece.jpg)
 
